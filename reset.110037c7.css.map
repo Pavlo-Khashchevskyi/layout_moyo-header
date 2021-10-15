@@ -1,0 +1,1 @@
+{"version":3,"sources":["reset.css"],"names":[],"mappings":"AAAA,aAIE,QAAS,CACT,SACF,CAEA,GACE,eACF","file":"reset.110037c7.css","sourceRoot":"..\\src","sourcesContent":["body,\nul,\na,\nli {\n  margin: 0;\n  padding: 0;\n}\n\nul {\n  list-style: none;\n}\n"]}
